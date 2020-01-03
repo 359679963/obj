@@ -4,5 +4,6 @@ public class Test1 {
  
 	
 	String s = "abc";
-	int c =22;
+	int b =22;
+
 }
